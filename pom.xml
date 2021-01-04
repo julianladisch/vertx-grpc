@@ -15,8 +15,8 @@
 
   <properties>
     <stack.version>4.0.1-SNAPSHOT</stack.version>
-    <netty.version>4.1.52.Final</netty.version>
-    <tcnative.version>2.0.34.Final</tcnative.version>
+    <netty.version>4.1.56.Final</netty.version>
+    <tcnative.version>2.0.35.Final</tcnative.version>
     <doc.skip>true</doc.skip>
   </properties>
 
